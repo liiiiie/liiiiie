@@ -4,5 +4,9 @@ qzzloz/qzzloz is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/qzzloz"/>
+<img
+  src="https://render.gitanimals.org/farms/qzzloz"
+  width="600"
+  height="300"
+/>
 </a>
